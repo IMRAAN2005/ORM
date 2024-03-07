@@ -47,7 +47,7 @@ class BOOK_DBAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Screenshot (13)](https://github.com/IMRAAN2005/ORM/assets/149347407/8b922e8e-ca03-40f0-a7e6-b3bb9978fbc6)
+![Screenshot (13)14](https://github.com/IMRAAN2005/ORM/assets/149347407/a6d5e983-0ad7-4902-ad21-0c6e40b669a5)
 
 
 ## RESULT
